@@ -1,14 +1,14 @@
 # About me
 
-### Feiran Yang (杨菲然)
+Feiran Yang (杨菲然)
 - `UW - Dept. of Bioengineering - M.S. Candidate`
 
 # BFFs
 
-### [Zhiqi Chen](https://zhiqiiiiiii.github.io/)
+[Zhiqi Chen](https://zhiqiiiiiii.github.io/)
 - `NYU - Dept. of Electrical & Computer Engineering - Ph.D. Candidate`
 
-### Jing Zhang
+Jing Zhang
 - `BU - Dept. of Biomedical Engineering - Ph.D. Candidate`
 
 
