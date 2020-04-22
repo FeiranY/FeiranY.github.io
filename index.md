@@ -13,8 +13,6 @@ Jing Zhang
 
 
 
+[Image](731178765.jpg)
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](1179216468.jpg)
+![Image](1179216468.jpg)
