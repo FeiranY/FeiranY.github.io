@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
 
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏.
