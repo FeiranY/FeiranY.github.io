@@ -6,6 +6,7 @@ Feiran Yang
 ### BFF
 
 [Zhiqi Chen](https://zhiqiiiiiii.github.io/) - NYU - Dept. of Electrical & Computer Engineering - Ph.D.
+
 Jing Zhang - BU - Dept. of Biomedical Engineering - Ph.D.
 
 # Header 1
