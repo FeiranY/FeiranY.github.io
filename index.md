@@ -1,9 +1,8 @@
 # About me
 
 Feiran Yang (杨菲然)
-
-![Image](32.jpg)
 - `UW - Dept. of Bioengineering - M.S. Candidate`
+![Image](32.jpg)
 
 # BFFs
 
