@@ -15,4 +15,8 @@ Jing Zhang
 
 ![Image](731178765.jpg)
 
+Left: Feiran Yang/Mid: Jing Zhang/Right: Zhiqi Chen 
+
 ![Image](1179216468.jpg)
+
+Up: Zhiqi Chen/ Down: Feiran Yang
