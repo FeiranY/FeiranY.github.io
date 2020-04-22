@@ -13,6 +13,6 @@ Jing Zhang
 
 
 
-[Image](731178765.jpg)
+![Image](731178765.jpg)
 
 ![Image](1179216468.jpg)
