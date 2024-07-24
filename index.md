@@ -9,10 +9,10 @@ Feiran Yang (杨菲然)
 # BFFs
 
 [Zhiqi Chen](https://zhiqiiiiiii.github.io/)
-- `NYU - Dept. of Electrical & Computer Engineering - Ph.D. Candidate`
+- `NYU - Dept. of Electrical & Computer Engineering - Ph.D.`
 
 [Jing Zhang](https://jingzhang2011.wordpress.com/about/)
-- `BU - Dept. of Biomedical Engineering - Ph.D. Candidate`
+- `BU - Dept. of Biomedical Engineering - Ph.D.`
 
 
 
