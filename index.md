@@ -1,7 +1,8 @@
 # About me
 
 Feiran Yang (杨菲然)
-- `UW - Dept. of Bioengineering - M.S. Candidate`
+- `University of Washington - Dept. of Bioengineering - MS`
+- `University of Pittsburgh - Dept. of Bioengineering - PhD`
 
 ![Image](32.jpg)
 
